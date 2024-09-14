@@ -69,7 +69,7 @@
 .button {
 }
 .text_link {
-  font-family:"Open Sans Semibold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:600;
   font-style:normal;
   font-size:15px;
@@ -132,7 +132,7 @@
   line-height:normal;
 }
 .h2 {
-  font-family:"Open Sans Bold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:19px;
@@ -141,7 +141,7 @@
   line-height:26px;
 }
 .button_third {
-  font-family:"Open Sans Bold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -171,7 +171,7 @@
   line-height:24px;
 }
 .h1 {
-  font-family:"Open Sans Bold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:25px;
@@ -199,7 +199,7 @@
   text-align:left;
 }
 .button_large_-_icon_-_primary_ {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -209,7 +209,7 @@
 .card_-_small {
 }
 .switch_-_disable {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -218,7 +218,7 @@
   text-align:left;
 }
 .switch_-_active {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -227,7 +227,7 @@
   text-align:left;
 }
 .controler_-_active {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -235,7 +235,7 @@
   color:#014A93;
 }
 .controler_-_disable {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -243,7 +243,7 @@
   color:#4A4A4A;
 }
 .button_large_-_icon_-_secondary {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -251,7 +251,7 @@
   color:#014A93;
 }
 .headline_-_24 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:24px;
@@ -260,7 +260,7 @@
   text-align:left;
 }
 .headline_-_18 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:18px;
@@ -289,7 +289,7 @@
   line-height:20px;
 }
 .button_large_-_primary {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -297,7 +297,7 @@
   color:#FFFFFF;
 }
 .title_-_20 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -317,7 +317,7 @@
   line-height:20px;
 }
 .subtitle_-_18 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:18px;
@@ -327,8 +327,8 @@
   line-height:24px;
 }
 .card_-_status_-_platnosc {
-  font-family:"Open Sans Semibold", "Open Sans", sans-serif;
-  font-weight:600;
+  font-family:"Open Sans", sans-serif;
+  font-weight:650;
   font-style:normal;
   font-size:11px;
   color:#1B3452;
@@ -362,7 +362,7 @@
   line-height:normal;
 }
 .button_large_-_secondary {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -388,7 +388,7 @@
   color:#014A93;
 }
 .body_-_16_-_medium {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -398,21 +398,21 @@
   line-height:20px;
 }
 .primary_button__mo_app_ {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
   color:#FFFFFF;
 }
 .secondary_button__mo_app_ {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
   color:#014A93;
 }
 .tertiary_button__mo_app_ {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -428,7 +428,7 @@
   line-height:20px;
 }
 .button_large_-_tertiary {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -438,7 +438,7 @@
 .status_-_without_icon {
 }
 .subtitle_-_18_-_medium {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:18px;
@@ -447,8 +447,8 @@
   line-height:24px;
 }
 .card_-_status_-_oplacona {
-  font-family:"Open Sans Semibold", "Open Sans", sans-serif;
-  font-weight:600;
+  font-family:"Open Sans", sans-serif;
+  font-weight:650;
   font-style:normal;
   font-size:11px;
   color:#1B3452;
@@ -460,7 +460,7 @@
 .box_31 {
 }
 .primary_button__mo_app_1 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -469,14 +469,14 @@
 .background {
 }
 .secondary_button__mo_app_1 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
   color:#014A93;
 }
 .title_-_201 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -523,7 +523,7 @@
   color:#014A93;
 }
 .body_-_16_-_medium1 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -533,7 +533,7 @@
   line-height:20px;
 }
 .tertiary_button__mo_app_1 {
-  font-family:"Roboto Medium", "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -557,7 +557,7 @@
 .shape5 {
 }
 .heading_2__mo_web_ {
-  font-family:"Open Sans Bold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -585,7 +585,7 @@
 .devider__mo_web_ {
 }
 .button_primary__mo_web_ {
-  font-family:"Open Sans Bold", "Open Sans", sans-serif;
+  font-family:"Open Sans", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
