@@ -686,10 +686,8 @@
 
                 var srcId = eventInfo.srcElement;
 
-                var isResize = action.parentEventType == 'onResize' || action.parentEventType == 'onPanelStateChange';
-
+                var isResize = action.parentEventType == 'onResize';
                 //if it's resizing, use the old rect for the threshold and clamp; otherwise, use the current rect
-                var obj = $obj(srcId);
                 var clampRect = $ax('#' + srcId).offsetBoundingRect(true);
                 if(isResize) {
                     var oldRect = $ax.visibility.getResizingRect(srcId);
@@ -1273,13 +1271,6 @@
         var idToResizeMoveState = _getIdToResizeMoveState(eventInfoCopy);
 
         var animations = [];
-
-        // set fitToContent to false if resize the dynamic panel itself
-        if($ax.public.fn.IsDynamicPanel(axObject.type)) {
-            axObject.fitToContent = false;
-            $('#' + axObject.scriptIds[0]).css('overflow', 'hidden');
-        }
-        
         if($ax.public.fn.IsLayer(axObject.type)) {
             moves = true; // Assume widgets will move will layer, even though not all widgets may move
             var childrenIds = $ax.public.fn.getLayerChildrenDeep(elementId, true, true);
